@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "address": "12 George Street",
+    "suburb": "Bondi",
+    "state": "NSW",
+    "postcode": "2026",
+    "salePrice": 2850000,
+    "description": "4 bedroom coastal home within walking distance to Bondi Beach"
+  },
+  {
+    "id": 2,
+    "address": "45 Oxford Street",
+    "suburb": "Bondi",
+    "state": "NSW",
+    "postcode": "2026",
+    "salePrice": 2400000,
+    "description": "Modern duplex with ocean views"
+  },
+  {
+    "id": 3,
+    "address": "88 Glenferrie Road",
+    "suburb": "Hawthorn",
+    "state": "VIC",
+    "postcode": "3122",
+    "salePrice": 1650000,
+    "description": "Victorian terrace near schools and tram lines"
+  },
+  {
+    "id": 4,
+    "address": "17 Chapel Street",
+    "suburb": "South Yarra",
+    "state": "VIC",
+    "postcode": "3141",
+    "salePrice": 1850000,
+    "description": "Luxury townhouse in premium shopping precinct"
+  },
+  {
+    "id": 5,
+    "address": "9 Toorak Road",
+    "suburb": "South Yarra",
+    "state": "VIC",
+    "postcode": "3141",
+    "salePrice": 2200000,
+    "description": "Penthouse apartment with skyline views"
+  },
+  {
+    "id": 6,
+    "address": "30 Queen Street",
+    "suburb": "Brisbane City",
+    "state": "QLD",
+    "postcode": "4000",
+    "salePrice": 1350000,
+    "description": "High-rise apartment in Brisbane CBD"
+  },
+  {
+    "id": 7,
+    "address": "14 Rokeby Road",
+    "suburb": "Subiaco",
+    "state": "WA",
+    "postcode": "6008",
+    "salePrice": 1250000,
+    "description": "Renovated family home near Subiaco Oval precinct"
+  },
+  {
+    "id": 8,
+    "address": "22 King William Road",
+    "suburb": "Unley",
+    "state": "SA",
+    "postcode": "5061",
+    "salePrice": 980000,
+    "description": "Charming cottage close to Adelaide CBD"
+  },
+  {
+    "id": 9,
+    "address": "5 Harris Street",
+    "suburb": "Pyrmont",
+    "state": "NSW",
+    "postcode": "2009",
+    "salePrice": 1550000,
+    "description": "Modern apartment near Darling Harbour"
+  },
+  {
+    "id": 10,
+    "address": "60 Lygon Street",
+    "suburb": "Carlton",
+    "state": "VIC",
+    "postcode": "3053",
+    "salePrice": 1420000,
+    "description": "Investment property near University of Melbourne"
+  },
+  {
+    "id": 1,
+    "address": "12 Chapel Street",
+    "suburb": "South Yarra",
+    "state": "VIC",
+    "postcode": "3141",
+    "salePrice": 1850000,
+    "description": "Modern 3-bedroom townhouse near shopping precinct"
+  },
+  {
+    "id": 2,
+    "address": "45 Toorak Road",
+    "suburb": "South Yarra",
+    "state": "VIC",
+    "postcode": "3141",
+    "salePrice": 2200000,
+    "description": "Luxury penthouse apartment with city skyline views"
+  },
+  {
+    "id": 3,
+    "address": "9 Claremont Street",
+    "suburb": "South Yarra",
+    "state": "VIC",
+    "postcode": "3141",
+    "salePrice": 1650000,
+    "description": "Renovated Victorian terrace home"
+  },
+  {
+    "id": 4,
+    "address": "27 Alexandra Avenue",
+    "suburb": "South Yarra",
+    "state": "VIC",
+    "postcode": "3141",
+    "salePrice": 2400000,
+    "description": "Riverfront apartment with premium finishes"
+  },
+  {
+    "id": 5,
+    "address": "18 Commercial Road",
+    "suburb": "South Yarra",
+    "state": "VIC",
+    "postcode": "3141",
+    "salePrice": 1950000,
+    "description": "Family home close to schools and public transport"
+  },
+  {
+    "id": 6,
+    "address": "33 Murphy Street",
+    "suburb": "South Yarra",
+    "state": "VIC",
+    "postcode": "3141",
+    "salePrice": 2100000,
+    "description": "High-end apartment with private balcony"
+  },
+  {
+    "id": 1,
+    "address": "12 Church Street",
+    "suburb": "Parramatta",
+    "state": "NSW",
+    "postcode": "2150",
+    "salePrice": 980000,
+    "description": "Modern 2-bedroom apartment near Parramatta Station"
+  },
+  {
+    "id": 2,
+    "address": "45 Macquarie Street",
+    "suburb": "Parramatta",
+    "state": "NSW",
+    "postcode": "2150",
+    "salePrice": 1150000,
+    "description": "Spacious 3-bedroom unit with river views"
+  },
+  {
+    "id": 3,
+    "address": "8 Harris Street",
+    "suburb": "Parramatta",
+    "state": "NSW",
+    "postcode": "2150",
+    "salePrice": 890000,
+    "description": "Renovated apartment close to Westfield"
+  },
+  {
+    "id": 4,
+    "address": "27 O'Connell Street",
+    "suburb": "Parramatta",
+    "state": "NSW",
+    "postcode": "2150",
+    "salePrice": 1250000,
+    "description": "Family townhouse in quiet residential area"
+  },
+  {
+    "id": 5,
+    "address": "19 George Street",
+    "suburb": "Parramatta",
+    "state": "NSW",
+    "postcode": "2150",
+    "salePrice": 1050000,
+    "description": "High-rise apartment with city skyline views"
+  },
+  {
+    "id": 6,
+    "address": "33 Victoria Road",
+    "suburb": "Parramatta",
+    "state": "NSW",
+    "postcode": "2150",
+    "salePrice": 1200000,
+    "description": "Contemporary duplex near Parramatta Park"
+  }
+]
